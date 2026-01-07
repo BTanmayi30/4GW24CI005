@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;prg_5.Shape&apos; to &apos;ShapeDemo&apos;&#x0D;&#x0A;- Original project: &apos;prg_5&apos;&#x0D;&#x0A;- Original element: &apos;prg_5.Shape&apos;&#x0D;&#x0A;- Renamed element: &apos;prg_5.ShapeDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Shape&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;prg_5{Shape.java[Shape" matchStrategy="1" name="ShapeDemo" qualified="false" references="true" similarDeclarations="false" stamp="1766123908382" textual="true" version="1.0"/>
+</session>

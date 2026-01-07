@@ -1,0 +1,12 @@
+package p9;
+//Custom Exception class 
+class DivisionByZeroException extends Exception { 
+//Constructor 
+DivisionByZeroException(String message) { 
+super(message); 
+} 
+} 
+//Main class 
+
+
+

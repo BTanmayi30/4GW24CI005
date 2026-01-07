@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;p11.MyTest&apos; to &apos;MyThread&apos;&#x0D;&#x0A;- Original project: &apos;p11&apos;&#x0D;&#x0A;- Original element: &apos;p11.MyTest&apos;&#x0D;&#x0A;- Renamed element: &apos;p11.MyThread&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;p11{MyTest.java[MyTest" matchStrategy="1" name="MyThread" qualified="false" references="true" similarDeclarations="false" stamp="1767361113268" textual="true" version="1.0"/>
+</session>

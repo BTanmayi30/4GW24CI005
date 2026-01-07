@@ -1,0 +1,9 @@
+package p9;
+
+public class DivisionTest {
+
+	public DivisionTest() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
